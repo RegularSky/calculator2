@@ -8,7 +8,7 @@ namespace Calculator
 {
     class Calculate
     {
-        public float firstNumber { get; set; } = 0;  // 屬性：firstNumber 儲存第一個數字
+        public float firstNumber { get; set; } = 0;  // 屬性：firstNumber 儲存第一個數字 
         public float secondNumber { get; set; } = 0; // 屬性：secondNumber 儲存第二個數字
 
         // 相加方法
@@ -47,4 +47,4 @@ namespace Calculator
             secondNumber = 0;
         }
     }
-}
+}  
