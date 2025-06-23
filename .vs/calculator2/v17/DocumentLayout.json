@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\a9209\\source\\repos\\calculator2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C230F4CB-E053-414D-82F5-F538B195A45E}|calculator2.csproj|C:\\Users\\a9209\\source\\repos\\calculator2\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C230F4CB-E053-414D-82F5-F538B195A45E}|calculator2.csproj|c:\\users\\a9209\\source\\repos\\calculator2\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C230F4CB-E053-414D-82F5-F538B195A45E}|calculator2.csproj|solutionrelative:calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C230F4CB-E053-414D-82F5-F538B195A45E}|calculator2.csproj|c:\\users\\a9209\\source\\repos\\calculator2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C230F4CB-E053-414D-82F5-F538B195A45E}|calculator2.csproj|C:\\Users\\a9209\\source\\repos\\calculator2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C230F4CB-E053-414D-82F5-F538B195A45E}|calculator2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -35,8 +35,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T07:14:35.402Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -54,7 +53,7 @@
               "RelativeDocumentMoniker": "Calculate.cs",
               "ToolTip": "C:\\Users\\a9209\\source\\repos\\calculator2\\Calculate.cs",
               "RelativeToolTip": "Calculate.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAA9wDEAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowC4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T05:33:46.873Z",
               "EditorCaption": ""
@@ -68,8 +67,7 @@
               "ToolTip": "C:\\Users\\a9209\\source\\repos\\calculator2\\Form1.cs [\u8A2D\u8A08]",
               "RelativeToolTip": "Form1.cs [\u8A2D\u8A08]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T07:14:27.554Z",
-              "EditorCaption": " [\u8A2D\u8A08]"
+              "WhenOpened": "2025-04-14T07:14:27.554Z"
             }
           ]
         }

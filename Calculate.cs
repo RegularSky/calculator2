@@ -43,8 +43,8 @@ namespace Calculator
         // 重新設定方法
         public void Reset()
         {
-            firstNumber = 0;
-            secondNumber = 0;
+            firstNumber =   0;
+            secondNumber =   0;
         }
     }
 }  
